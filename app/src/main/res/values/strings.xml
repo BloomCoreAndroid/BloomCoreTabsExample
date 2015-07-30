@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BloomCore</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment">Hello from fragment</string>
+
+</resources>
